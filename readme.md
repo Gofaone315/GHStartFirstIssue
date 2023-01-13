@@ -3,4 +3,4 @@
 
  - Ivan Markovic
  - [Dragan Zlatković](https://github.com/dzlatkovic)
- - :itbootcamp:
+ - Prazan red
