@@ -5,3 +5,4 @@
  - [Dragan Zlatković](https://github.com/dzlatkovic)
  - :itbootcamp:
 - Marko Becejac
+- MajaDom
