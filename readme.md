@@ -1,4 +1,4 @@
-# Put your name and surname below. Or comment if you want just so we can practice Git.
+# Put your name and surname in readme than push it back so we can test out GH functionality. Or comment if you want just so we can practice Git.
 # Cheers! Mods are welcome to sign in as well.
 
  - Ivan Markovic
