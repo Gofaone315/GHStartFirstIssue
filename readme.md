@@ -2,3 +2,4 @@
 # Cheers! Mods are welcome to sign in as well.
 
  - Ivan Markovic
+ - [Dragan Zlatković](https://github.com/dzlatkovic)
