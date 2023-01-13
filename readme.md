@@ -6,3 +6,4 @@
  - :itbootcamp:
 - Marko Becejac
 - Andjela Dojcinovic
+- MajaDom
