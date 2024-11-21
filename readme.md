@@ -7,3 +7,4 @@
 - Marko Becejac
 - Andjela Dojcinovic
 - MajaDom
+- [Gofaone Tlalang](https://github.com/Gofaone315)
